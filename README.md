@@ -1,8 +1,8 @@
 ## 👋 Привет | Hello | Bonjour | Hola | Konichiwa | Shalom | Aloha | Ciao
 
-<div align="center">
+<!-- <div align="center">
 <img hight="100" width="300" alt="GIF" align="center" src="./assets/hello.gif">
-</div>
+</div> -->
 
 <br>
 
