@@ -6,9 +6,7 @@
 
 <br>
 
-<div align="center">
-<img src="https://profile-counter.glitch.me/g1adius/count.svg" align="center">
-</div>
+
 
 ## 💬 About me:
 #### - I'm Valera from Moscow.
@@ -43,3 +41,11 @@
 be it some doubt or just to hangout and talk,<br>
 just ping me.</p>
 <p align="center"><a href="https://t.me/g1adius"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" title="Telegram" alt="Telegram" width="40" height="40"/>&nbsp;</a></p>
+
+<br>
+<br>
+<br>
+
+<div align="center">
+<img src="https://profile-counter.glitch.me/g1adius/count.svg" align="center">
+</div>
