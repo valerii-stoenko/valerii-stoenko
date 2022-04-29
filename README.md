@@ -44,6 +44,6 @@ just ping me.</p>
 <br>
 <br>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://profile-counter.glitch.me/g1adius/count.svg" align="center">
-</div>
+</div> -->
