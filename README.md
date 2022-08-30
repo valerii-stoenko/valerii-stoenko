@@ -15,10 +15,6 @@
 - 🦈 Deep Learning
 - 🧠 Artificial Intelligence
 
-#### - Hobbies : 
-- 🏋 Sport (master of sports in sambo, candidate for master of sports in armwrestling)
-- 🎸 Play the guitar
-
 #### - Languages & Tools :
 
 <div align="left">
