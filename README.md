@@ -6,9 +6,6 @@
  
 <br>
 
-## 💬 About me:
-#### - I'm Valera from Moscow.
-
 #### - Competences :
 - 📊 Data Analysis
 - 👾 Machine Learning
