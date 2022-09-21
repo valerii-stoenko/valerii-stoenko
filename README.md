@@ -1,7 +1,5 @@
 ## 👋 Привет | Hello | Bonjour | Hola | Konichiwa | Shalom | Aloha | Ciao
 
-<br>
-
 ## 📚 Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
