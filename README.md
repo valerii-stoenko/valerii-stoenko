@@ -25,6 +25,7 @@
 be it some doubt or just to hangout and talk,<br>
 just ping me.</p>
 
+<p align="center"><a href="mailto:valerii.stoenko@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Telegram" alt="Gmail"/>&nbsp;</a></p>
 <p align="center"><a href="https://t.me/g1adius"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram" alt="Telegram"/>&nbsp;</a></p>
 
 <br>
