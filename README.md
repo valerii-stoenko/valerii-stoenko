@@ -14,6 +14,10 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
+## 🐱‍👤 CodeWars:
+
+![CodeWars](https://www.codewars.com/users/valerii.stoenko/badges/large)
+
 ## 🖊 How to contact with me :
 
 <img src="./assets/contact.gif" align="right" width="530.5px" height="280.5px">
